@@ -1,0 +1,151 @@
+
+@media only screen and (max-width:1195px){
+#fourthsection .row img
+{
+	width:80%;
+	height:80%;
+}
+}
+@media only screen and (max-width:1080px){
+.nav-link{
+	width:20%;
+	color:#3A2828;
+	font-size:1.2rem;
+	font-weight:500;
+}
+.nav-link:hover
+{
+	color:#3A2828;
+	text-shadow:2px 3px 3px red;
+	font-size:1.3rem;
+	font-weight:600;
+	-webkit-transition: 0.3s ease-out;
+	-moz-transition: 0.3s ease-out;
+	transition: 0.3s ease-out;
+}
+}
+@media only screen and (max-width:990px){
+	#firstsection img{
+		width:400px;
+	}
+	#fourthsection .row img
+{
+	width:80%;
+	height:70%;
+}
+#fourthsection p
+{	color:#6E12F9;
+
+	font-weight:600;
+	font-size:15px;
+	cursor:pointer;
+}
+#fourthsection p:hover
+{color:#6E12F9;
+	font-weight:800;
+	font-size:18px;
+	letter-spacing:1px;
+}
+#fourthsection .display-1
+{
+	font-size:4rem;
+}
+#fourthsection .display-4
+{
+	font-size:3rem;
+}
+#fourthsection h3
+{
+	font-size:1.3rem;
+}
+}
+@media only screen and (max-width:770px){
+	#firstsection img{
+		width:350px;
+	}
+	.carousel-inner img
+	{
+		height:300px;
+	}
+	#quote p
+{
+	font-size:23px;
+}
+#quote cite
+{
+	font-size:20px;
+	margin-right:10px;
+	color:black;
+}
+}
+@media only screen and (max-width:700px){
+	#secondsection{
+	margin-top:120px;
+	
+}
+	#firstsection img{
+		width:253px;
+		height:80px;
+	}
+	.nav-link{
+	width:20%;
+	color:#3A2828;
+	font-size:1.1rem;
+	font-weight:500;
+}
+.nav-link:hover
+{
+	color:#3A2828;
+	text-shadow:2px 3px 3px red;
+	font-size:1.2rem;
+	font-weight:600;
+	-webkit-transition: 0.3s ease-out;
+	-moz-transition: 0.3s ease-out;
+	transition: 0.3s ease-out;
+}
+	.carousel-inner img
+	{
+		height:200px;
+	}
+	#quote p
+{
+	font-size:20px;
+}
+#quote cite
+{
+	font-size:17px;
+	margin-right:10px;
+	color:black;
+}
+#make
+{
+	font-family:"Italic";
+	font-size:3rem;
+	color:#C2F9E5;
+	font-weight:200;
+	text-shadow:-2px 2px 4px #E6F695;
+	margin-top:10px;
+}
+#thirdsection p
+{
+	font-size:1.3em;
+	text-align:center;
+	position:relative;
+	line-height:1.1em;
+	letter-spacing:2px;
+	padding:5px;
+}
+#fourthsection .row img
+{
+	width:100%;
+	height:90%;
+}
+#fourthsection .display-4
+{
+	font-size:2rem;
+}
+#fifthsection .display-3
+{
+	font-size:4rem;
+}
+}

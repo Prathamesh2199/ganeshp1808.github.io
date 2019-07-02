@@ -1,0 +1,149 @@
+@media only screen and (max-width:1080px){
+.nav-link{
+	width:20%;
+	color:#3A2828;
+	font-size:1.1rem;
+	font-weight:500;
+}
+.nav-link:hover
+{
+	color:#3A2828;
+	text-shadow:2px 3px 3px red;
+	font-size:1.2rem;
+	font-weight:600;
+	-webkit-transition: 0.3s ease-out;
+	-moz-transition: 0.3s ease-out;
+	transition: 0.3s ease-out;
+}
+}
+@media only screen and (max-width:990px){
+	.card
+	{
+		width: 20rem;
+	height:10rem;
+	padding:5px;
+	}
+	.card h3,h5
+	{
+		font-size:1rem;
+	}
+	.card p
+	{
+		font-size:0.8rem;
+	}
+}
+@media only screen and (max-width:770px){
+	#secondsection .display-1
+	{
+		font-size:4rem;
+	}
+	#secondsection h4
+	{
+		font-size:1rem;
+		text-align:center;
+	font-weight:500;
+	letter-spacing:1px;
+	line-height:30px;
+	}
+	.card
+	{
+		width: 18rem;
+	height:9rem;
+	padding:4px;
+	}
+	.card h3,h5,p
+	{
+		font-size:1rem;
+	}
+	
+}
+@media only screen and (max-width:769px)
+{
+	.card p
+	{
+		font-size:0.7rem;
+	}
+	.core
+	{
+		width: 18rem;
+	}
+}
+@media only screen and (max-width:558px){
+	#firstsection img{
+		width:300px;
+	}
+	.card p
+	{
+		font-size:0.6rem;
+	}
+}
+@media only screen and (max-width:528px){
+	.card
+	{
+		width: 14rem;
+	height:8rem;
+	padding:4px;
+	}
+	.core
+	{
+		width: 15rem;
+	}
+	.card h3,h5
+	{
+		font-size:0.85rem;
+	}
+	.card p
+	{
+		font-size:0.55rem;
+	}
+}
+@media only screen and (max-width:499px){
+	
+	#firstsection img{
+		width:253px;
+		height:80px;
+	}
+	
+	.nav-link{
+	width:20%;
+	color:#3A2828;
+	font-size:1.1rem;
+	font-weight:500;
+}
+.nav-link:hover
+{
+	color:#3A2828;
+	text-shadow:2px 3px 3px red;
+	font-size:1.2rem;
+	font-weight:600;
+	-webkit-transition: 0.3s ease-out;
+	-moz-transition: 0.3s ease-out;
+	transition: 0.3s ease-out;
+}
+	.card
+	{
+		width: 12rem;
+	height:8rem;
+	padding:4px;
+	}
+	.card h3,h5
+	{
+		font-size:0.75rem;
+	}
+	.card p
+	{
+		font-size:0.4rem;
+	}
+	#fifthsection .display-3
+	{
+		font-size:4rem;
+	}
+	#ourteam .display-2
+	{
+		font-size:4rem;
+	}
+	#ourteam .display-4
+	{
+		font-size:3rem;
+	}
+}
