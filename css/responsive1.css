@@ -17,6 +17,9 @@
 }
 }
 @media only screen and (max-width:990px){
+	#firstsection img{
+		width:400px;
+	}
 	.card
 	{
 		width: 20rem;
@@ -33,6 +36,9 @@
 	}
 }
 @media only screen and (max-width:770px){
+	#firstsection img{
+		width:350px;
+	}
 	#secondsection .display-1
 	{
 		font-size:4rem;
@@ -69,9 +75,7 @@
 	}
 }
 @media only screen and (max-width:558px){
-	#firstsection img{
-		width:300px;
-	}
+	
 	.card p
 	{
 		font-size:0.6rem;
@@ -99,10 +103,7 @@
 }
 @media only screen and (max-width:499px){
 	
-	#firstsection img{
-		width:253px;
-		height:80px;
-	}
+	
 	
 	.nav-link{
 	width:20%;
@@ -145,5 +146,24 @@
 	#ourteam .display-4
 	{
 		font-size:3rem;
+	}
+}
+@media only screen and (max-width:456px)
+{
+	#firstsection img{
+		width:300px;
+		height:80px;
+	}
+}
+@media only screen and (max-width:376px)
+{#firstsection img{
+		width:253px;
+		height:80px;
+	}
+}
+@media only screen and (max-width:321px)
+{#firstsection img{
+		width:200px;
+		height:70px;
 	}
 }
