@@ -36,6 +36,13 @@
 	}
 }
 @media only screen and (max-width:770px){
+	.nav-link
+	{
+		width:50%;
+	color:#3A2828;
+	font-size:1.3rem;
+	font-weight:500;
+	}
 	#firstsection img{
 		width:350px;
 	}
