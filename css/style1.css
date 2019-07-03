@@ -14,11 +14,6 @@
 	font-size:1.3rem;
 	font-weight:500;
 }
-.navbar-toggler {
-  
-  border:2px solid;
-  background-image: url("toggle.png");
-} 
 
 .nav-link:hover
 {
