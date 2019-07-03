@@ -101,16 +101,16 @@
 }
 .dropdown-item
 {
-	color:red;
-	font-size:1.1rem;
-	font-weight:100;
+	color:#3A2828;
+	font-size:1rem;
+	font-weight:400;
 }
 .dropdown-item:hover
 {
-	color:#aa1c2c;
+	color:#3A2828;
 	text-shadow:2px 3px 3px red;
-	font-size:1.2rem;
-	font-weight:300;
+	font-size:1.1rem;
+	font-weight:500;
 	background-color:#FFCBCB;
 	-webkit-transition: 0.3s ease-out;
 	-moz-transition: 0.3s ease-out;
