@@ -38,11 +38,21 @@
 @media only screen and (max-width:770px){
 	.nav-link
 	{
-		width:50%;
+		width:70%;
 	color:#3A2828;
-	font-size:1.3rem;
+	font-size:1.2rem;
 	font-weight:500;
 	}
+	.nav-link:hover
+{
+	color:#3A2828;
+	text-shadow:2px 3px 3px red;
+	font-size:1.3rem;
+	font-weight:600;
+	-webkit-transition: 0.3s ease-out;
+	-moz-transition: 0.3s ease-out;
+	transition: 0.3s ease-out;
+}
 	#firstsection img{
 		width:350px;
 	}
@@ -109,25 +119,7 @@
 	}
 }
 @media only screen and (max-width:499px){
-	
-	
-	
-	.nav-link{
-	width:20%;
-	color:#3A2828;
-	font-size:1.1rem;
-	font-weight:500;
-}
-.nav-link:hover
-{
-	color:#3A2828;
-	text-shadow:2px 3px 3px red;
-	font-size:1.2rem;
-	font-weight:600;
-	-webkit-transition: 0.3s ease-out;
-	-moz-transition: 0.3s ease-out;
-	transition: 0.3s ease-out;
-}
+
 	.card
 	{
 		width: 12rem;
