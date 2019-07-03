@@ -34,14 +34,14 @@
 	height:70%;
 }
 #fourthsection p
-{	color:#6E12F9;
+{	color:black;
 
 	font-weight:600;
 	font-size:15px;
 	cursor:pointer;
 }
 #fourthsection p:hover
-{color:#6E12F9;
+{color:black;
 	font-weight:800;
 	font-size:18px;
 	letter-spacing:1px;
