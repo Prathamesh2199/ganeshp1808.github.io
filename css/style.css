@@ -189,17 +189,17 @@ body
 }
 #fourthsection
 {
-	background-image: linear-gradient(#0310C3,#1AFFBB);
+	background-image: linear-gradient(#020C3F,#1AFFBB);
 }
 #fourthsection p
-{	color:#6E12F9;
+{	color:#7402A5;
 
 	font-weight:800;
 	font-size:20px;
 	cursor:pointer;
 }
 #fourthsection p:hover
-{color:#6E12F9;
+{color:#7402A5;
 	font-weight:500;
 	font-size:25px;
 	letter-spacing:2px;
